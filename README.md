@@ -42,6 +42,7 @@ This project was written to run on Raspbian and activate LEDs through the Raspbe
   $ pip3.5 --version
 
 2) update your path so python 3.5 and pip are the default versions (for me, this was pip 8.1.1)
+
 3) pip install oauth2client pyopenssl gspread google-api-python-client
 
 4) Get service token from Google Dev Console
