@@ -3,7 +3,7 @@ Utilities for pulling data from gmail, drive, calendar, etc.
 This project was written to run on Raspbian and activate LEDs through the Raspberry Pi GPIO on certain triggers - for instance, when a new email is received or there is an upcoming calendar event on the current day.
 
 1) Upgrade to Python 3 (I upgraded to 3.5 from 2.7.9)
-  backup your system using the Win32DiskImager or the linux dd command
+  Backup your system using the Win32DiskImager or the linux dd command
   
   $sudo apt-get update
   
