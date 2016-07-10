@@ -1,0 +1,6 @@
+Run with "python emailNotifier.py"
+Built for Python 2.6. Feedparser not packaged with Python 3. If desired, port to 3 or use alternate XML parsing.
+emailNotifier - standard text output of inbox status
+emailNotifier2 - experiment with Google TTS call to read inbox status. Currently broken due to Google TTS discontinuation
+emailNotifierSpeech - experiment with espeak to read inbox status
+emailNotifierSpeech2 - custom espeak voice to read inbox status

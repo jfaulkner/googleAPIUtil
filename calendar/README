@@ -1,0 +1,3 @@
+Run with "python3 calendarNotifier.py"
+Quick calendar script utilizing the Google Calendar v3 API to get the next 10 events (https://developers.google.com/google-apps/calendar/)
+Be sure to set up your ~/.credentials folder with the keys you need.

@@ -1,0 +1,4 @@
+Run with "python news.py"
+Built for Python 2.6. Feedparser not packaged with Python 3. If desired, port to 3 or use alternate XML parsing.
+News feed parsing from BBC RSS feed (feeds.bbci.co.uk/news/rss.xml)
+Encoding errors ignored

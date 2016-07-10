@@ -1,0 +1,4 @@
+Run with "python3 trafficNotifier.py"
+Google maps API integration to estimate commute time based on current traffic conditions
+Configurable for multiple drivers, just enter a point near the driver's place of work.
+Integrated with espeak to audibly report results
